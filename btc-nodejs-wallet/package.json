@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/bitcore-lib-cash": "^8.23.5",
+    "bitcore-lib-cash": "^8.25.40"
+  }
+}
